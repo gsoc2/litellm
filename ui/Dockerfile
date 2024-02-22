@@ -1,5 +1,5 @@
 # Use official Python base image
-FROM python:3.9.12
+FROM python:3.13.0a4
 
 EXPOSE 8501
 
